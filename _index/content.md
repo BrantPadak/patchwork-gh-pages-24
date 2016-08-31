@@ -1,7 +1,7 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAUjAAAAJDhjM2VhNmZjLTlkMzEtNGY1Yi04MjA2LTI2NzUxY2NlNDk5MA.jpg"
+name: "Brant E Padak"
+title: "Emergent Developer"
 ---
 
 #### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
